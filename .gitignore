@@ -1,0 +1,7 @@
+# ====== CHẾ ĐỘ WHITELIST: repo này CHỈ chứa manifest cập nhật ======
+# Mã nguồn tool KHÔNG BAO GIỜ lên GitHub. Exe phát hành nằm trong Releases.
+# Cơ chế tự cập nhật chỉ đọc version.json ở nhánh main (updater.MANIFEST_URL).
+*
+!.gitignore
+!README.md
+!version.json
