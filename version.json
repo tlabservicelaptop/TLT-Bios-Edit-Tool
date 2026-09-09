@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0.4",
-  "url": "https://github.com/tlabservicelaptop/TLT-Bios-Edit-Tool/releases/download/v1.0.0.4/Bios_Edit_Tool.exe",
-  "sha256": "520924597963b92295ef57942454e761609c269f1c9a50f5ec9f83d4cf1c8cfa",
-  "notes": "update unlock, computrace, autopilot\nUpdate support Microsoft surface",
+  "version": "1.0.0.5",
+  "url": "https://github.com/tlabservicelaptop/TLT-Bios-Edit-Tool/releases/download/v1.0.0.5/Bios_Edit_Tool.exe",
+  "sha256": "e5cdbb0eca34d2d225ab93be7e66d616209366fb2e3ccaa6c4cdbb4a45a4b8e4",
+  "notes": "fix asus extract rebuild, computrace Dell fail",
   "extra": [],
-  "sig": "b7249f7f85840b93cba4d47db6ebe5e8a4d851e38027350c799f2bc6f39ab6e1f18b66c226482d3a510f97eb7a195dc07bb11efc018248456d01c936411ee103"
+  "sig": "9999f7ad86c1d6f6a39819cb11475218b42f9e3f0594015e97399ab8e742727e475fe935a638706cc3f65087840f2013b92e1b7871779d5e08db967133c80d0f"
 }
